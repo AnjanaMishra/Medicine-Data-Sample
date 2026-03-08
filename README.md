@@ -1,1 +1,1 @@
-# Medicine-Data-Sample
+# Medicine Recommendation System
